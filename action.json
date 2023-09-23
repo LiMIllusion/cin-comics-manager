@@ -1,0 +1,19 @@
+{
+    "action":"",
+    "tasks": [
+                {
+                    "name": "Task1",
+                    "description": "Primo task",
+                    "script":"",
+                    "type":"url_action",
+                    "param":[""]
+                },
+                {
+                    "name": "Task2",
+                    "description": "Secondo task",
+                    "script":"",
+                    "type":"url_action",
+                    "param":[""]
+                }
+            ]
+}

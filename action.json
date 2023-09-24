@@ -1,19 +1,13 @@
 {
-    "action":"",
+    "action":"cin-comics-manager",
     "tasks": [
                 {
-                    "name": "Task1",
-                    "description": "Primo task",
-                    "script":"",
+                    "name": "AddComic",
+                    "description": "Add a new comic to you database in 'To read' status",
+                    "script":"cin-comics-manager.py",
                     "type":"url_action",
-                    "param":[""]
-                },
-                {
-                    "name": "Task2",
-                    "description": "Secondo task",
-                    "script":"",
-                    "type":"url_action",
-                    "param":[""]
+                    "supported-url":["panini.it"],
+                    "param":["-r"]
                 }
             ]
 }

@@ -1,0 +1,9 @@
+{
+    "url": "panini.it",
+    "cover_image_xpath": "//meta[@property=\"og:image\"]/@content",
+    "pages_xpath": "//*[@id=\"additional\"]/div/ul/li[4]/span",
+    "title_xpath": "//meta[@property=\"og:title\"]/@content",
+    "content_xpath": "//meta[@property=\"og:description\"]/@content",
+    "author_xpath": "//*[@id=\"additional\"]/div/ul/li[1]/span",
+    "publication_date_xpath": "//*[@id=\"additional\"]/div/ul/li[2]/span"
+}

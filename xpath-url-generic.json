@@ -1,0 +1,9 @@
+{
+    "url": "www.example.com",
+    "coved_image_xpath": "XPath_for_image_URL",
+    "pages_xpath": "XPath_for_page_count",
+    "title_xpath": "XPath_for_title",
+    "content_xpath": "XPath_for_content",
+    "author_xpath": "XPath_for_author",
+    "publication_date_xpath": "XPath_for_publication_date"
+}
